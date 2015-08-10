@@ -4,6 +4,8 @@ email: filip.bartek@hotmail.com
 url: "http://filipbartek.github.io/" # the base hostname & protocol for your site
 github_username: filipbartek
 
+linkedin_username: filipbartek
+
 # Build settings
 markdown: kramdown
 
