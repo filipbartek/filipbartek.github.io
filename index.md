@@ -10,7 +10,6 @@ Programming tasks that get me excited:
 
 * computationally difficult problems
 * optimization
-* backend programming
 * artificial intelligence
 * computer games
 
