@@ -12,7 +12,7 @@ some of my toy and homework projects.
 ## [missls](https://github.com/filipbartek/missls) (2015)
   * Tactical nuclear warfare party minigame
   * Originally made solo in 48 hours for [Ludum Dare 32](http://ludumdare.com/compo/ludum-dare-32/)
-    * [Competition results](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=39872) (placed in top 8 % in category Mood)
+    * [Placed in top 8 % in category Mood](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=39872)
   * Made using [GameMaker: Studio](http://www.yoyogames.com/studio)
 
 ## [Magic Dance Dance Carpet](http://mddc.jirimaha.com/) (2013)
