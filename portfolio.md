@@ -46,7 +46,7 @@ some of my toy and homework projects.
 
 * [Stable roommates problem solver](https://github.com/filipbartek/srp) (2014)
   * Performance evaluation, constraint programming
-  * Prolog, clp(FD), SICStus Prolog, NaturalDocs, LaTeX
+  * Prolog, SICStus Prolog, clp(FD), NaturalDocs, LaTeX
   * [Report](http://filipbartek.github.io/srp/report.pdf)
 
 * [The Best Amendment Computer Game Analysis](http://pragueinvaders.blogspot.cz/2013/11/the-best-amendment-computer-game.html) (2013)
