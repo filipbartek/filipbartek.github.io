@@ -16,7 +16,7 @@ some of my toy and homework projects.
   * Made using [GameMaker: Studio](http://www.yoyogames.com/studio)
 
 ## [Magic Dance Dance Carpet](http://mddc.jirimaha.com/) (2013)
-  * A prototype of a magic carpet virtual experience
+  * Virtual magic carpet experience (prototype)
   * Interesting features:
     * Dance pad controls
     * Concave world
