@@ -30,7 +30,8 @@ some of my toy and homework projects.
 # Other projects
 
 * [NokiaWebGL](https://github.com/filipbartek/NokiaWebGL) (2014)
-  * Improvement of an existing tool for extracting 3D maps from a Nokia service; this version can export a single OBJ file with an arbitrary rectangular region
+  * Extracts a 3D map of a large region from a Nokia service
+  * Improvement of an existing tool with similar functionality - I made it produce a single 3D model for easier processing
   * Python
 
 * [Slinky conductor](https://github.com/filiboja/slnkcctr) (2014)
