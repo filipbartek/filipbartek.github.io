@@ -10,6 +10,3 @@ linkedin_username: filipbartek
 markdown: kramdown
 
 exclude: [Gemfile]
-
-gems:
-  - jekyll-last-modified-at
