@@ -9,7 +9,7 @@ some of my toy and homework projects.
 
 # Notable projects
 
-## [missls](http://gamejolt.com/games/missls/64566) (2015)
+## [missls](https://github.com/filipbartek/missls) (2015)
   * Tactical nuclear warfare party minigame
   * Originally made solo in 48 hours for [Ludum Dare 32](http://ludumdare.com/compo/ludum-dare-32/)
     * [Competition results](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=39872) (placed in top 8 % in category Mood)
