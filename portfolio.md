@@ -21,7 +21,10 @@ some of my toy and homework projects.
     * Dance pad controls
     * Concave world
   * Collaboration of five students of various backgrounds
-  * Responsibilities: Programming, software design, game design
+  * My responsibilities:
+    * Software design
+    * Programming
+    * Game design
   * Made using [Unreal Development Kit](https://www.unrealengine.com/previous-versions)
 
 # Other projects
