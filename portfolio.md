@@ -20,7 +20,7 @@ some of my toy and homework projects.
   * Interesting features:
     * Dance pad controls
     * Concave world
-  * Collaboration of five students
+  * Collaboration of five students of various backgrounds
   * Responsibilities: Programming, software design, game design
   * Made using [UDK](https://www.unrealengine.com/previous-versions)
 
