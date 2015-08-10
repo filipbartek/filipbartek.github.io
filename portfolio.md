@@ -45,7 +45,7 @@ some of my toy and homework projects.
   * [Source](https://cloud.sagemath.com/projects/7a4027f1-a27a-40c2-bba4-92b7946e0537/files/)
 
 * [Stable roommates problem solver](https://github.com/filipbartek/srp) (2014)
-  * Performance evaluation
+  * Performance evaluation, constraint programming
   * Prolog, clp(FD), SICStus Prolog, NaturalDocs, LaTeX
   * [Report](http://filipbartek.github.io/srp/report.pdf)
 
