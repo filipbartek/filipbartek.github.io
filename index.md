@@ -14,3 +14,6 @@ I am interested in
 * artificial intelligence
 * computer games
 
+{:.center}
+![My photo](assets/face.jpg)
+
