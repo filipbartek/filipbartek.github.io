@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-On this page you can review
+On this page you can see
 some of my toy and homework projects.
 
 # Notable projects
