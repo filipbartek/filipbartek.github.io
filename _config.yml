@@ -6,3 +6,5 @@ github_username: filipbartek
 
 # Build settings
 markdown: kramdown
+
+exclude: [Gemfile]
