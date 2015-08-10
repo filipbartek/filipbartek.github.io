@@ -22,7 +22,7 @@ some of my toy and homework projects.
     * Concave world
   * Collaboration of five students of various backgrounds
   * Responsibilities: Programming, software design, game design
-  * Made using [UDK](https://www.unrealengine.com/previous-versions)
+  * Made using [Unreal Development Kit](https://www.unrealengine.com/previous-versions)
 
 # Other projects
 
