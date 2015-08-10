@@ -4,7 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Some of the toy and homework projects I've worked on during my university studies follow. I'm not particularly proud about any of them but they may give you some idea about the technologies I've encountered.
+On this page you can review
+some of my toy and homework projects.
 
 # Notable projects
 
