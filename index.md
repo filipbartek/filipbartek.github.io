@@ -6,7 +6,7 @@ I am an aspiring game developer and amateur philosopher.
 
 My favorite technologies have recently been [SageMath](http://www.sagemath.org/), Python and C++.
 
-I am interested in
+Programming tasks that get me excited:
 
 * computationally difficult problems
 * optimization
