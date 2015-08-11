@@ -42,7 +42,7 @@ some of my toy and homework projects.
 
 * [Slinky conductor](https://github.com/filiboja/slnkcctr) (2014)
   * Software toy, image processing, rhythm, juggling, slinky, art
-  * C++, Visual Studio, Boost, OpenCV
+  * C++, OpenCV, Boost, Visual Studio
   * [Project report](https://cloud.sagemath.com/projects/a74372d3-72eb-4d0f-af58-57f48829f926/files/report/report.pdf)
 
 * [Stationary analysis of one channel queueing systems](http://filipbartek.github.io/queueing/queueing.pdf) (2014)
