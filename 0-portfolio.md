@@ -64,7 +64,7 @@ some of my toy and homework projects.
 
 * Static Analysis Suite (2013)
   * Extension of [Clang Static Analyzer](http://clang-analyzer.llvm.org/) with new checkers
-  * Analysis of the possibility of deploying Clang SA in the testing process in the PH-SFT department of CERN
+  * Analysis of the possibility of deploying Clang <abbr title="Static Analyzer">SA</abbr> in the testing process in the <abbr title="PHysics - SoFTware">PH-SFT</abbr> department of CERN
   * Summer Student Programme (internship / summer school) in CERN
   * C++, Clang Static Analyzer, Linux
   * [Work Project Report](https://cds.cern.ch/record/1597539)

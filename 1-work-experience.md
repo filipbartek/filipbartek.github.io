@@ -27,7 +27,7 @@ permalink: /work-experience/
 * Technologies:
   * C++
   * Visual Studio 6
-  * SVN
+  * <abbr title="Subversion">SVN</abbr>
   * Serena Dimensions
   * Windows
 
