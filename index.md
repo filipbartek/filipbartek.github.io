@@ -12,7 +12,7 @@ Programming tasks that get me excited:
 * computer games
 
 {:.center}
-![My photo](assets/face.jpg)
+![My photo](/assets/face.jpg)
 
 If you need help with a project you think I might find interesting,
 do not hesitate to contact me!
