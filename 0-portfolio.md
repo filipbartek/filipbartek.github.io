@@ -42,7 +42,7 @@ some of my toy and homework projects.
 
 * [Slinky conductor](https://github.com/filiboja/slnkcctr) (2014)
   * Software toy, image processing, rhythm, juggling, slinky, art
-  * C++, OpenCV, Boost, Visual Studio
+  * C++, OpenCV, Boost, Visual Studio, Windows
   * [Project report](https://cloud.sagemath.com/projects/a74372d3-72eb-4d0f-af58-57f48829f926/files/report/report.pdf)
 
 * [Stationary analysis of one channel queueing systems](http://filipbartek.github.io/queueing/queueing.pdf) (2014)
@@ -62,7 +62,7 @@ some of my toy and homework projects.
   * Extension of Clang Static Analyzer with new checkers
   * Analysis of the possibility of deploying Clang SA in the testing process in the PH-SFT department of CERN
   * Summer Student Programme (internship / summer school) in CERN
-  * C++, Clang Static Analyzer
+  * C++, Clang Static Analyzer, Linux
   * [Work Project Report](https://cds.cern.ch/record/1597539)
 
 * [path_finding](https://cloud.sagemath.com/projects/f18cd484-a3f3-4c7d-a485-4c8f09c8b652/files/path_finding/) (2015)
