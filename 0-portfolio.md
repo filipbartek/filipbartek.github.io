@@ -63,7 +63,7 @@ some of my toy and homework projects.
   * Game studies, computer game analysis
 
 * Static Analysis Suite (2013)
-  * Extension of Clang Static Analyzer with new checkers
+  * Extension of [Clang Static Analyzer](http://clang-analyzer.llvm.org/) with new checkers
   * Analysis of the possibility of deploying Clang SA in the testing process in the PH-SFT department of CERN
   * Summer Student Programme (internship / summer school) in CERN
   * C++, Clang Static Analyzer, Linux
