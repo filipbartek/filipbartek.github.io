@@ -68,3 +68,8 @@ some of my toy and homework projects.
 * [path_finding](https://cloud.sagemath.com/projects/f18cd484-a3f3-4c7d-a485-4c8f09c8b652/files/path_finding/) (2015)
   * Visualization of A* search
   * SageMath, Python
+
+* [Rabin game solver](https://github.com/filipbartek/rabin) (2012)
+  * C++ implementation of two algorithms that find a winning strategy given an instance of a finite Rabin game (defined for example [here](http://www.cs.le.ac.uk/people/np183/publications/2006/PP06.html))
+  * My [bachelor thesis at Masaryk University](http://is.muni.cz/th/324945/fi_b) [in Czech]
+  * C++, Windows
