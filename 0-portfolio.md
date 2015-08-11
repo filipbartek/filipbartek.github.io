@@ -35,6 +35,15 @@ some of my toy and homework projects.
 
 # Other projects
 
+* [path_finding](https://cloud.sagemath.com/projects/f18cd484-a3f3-4c7d-a485-4c8f09c8b652/files/path_finding/) (2015)
+  * Visualization of A* search
+  * SageMath, Python
+
+* [Stable roommates problem solver](https://github.com/filipbartek/srp) (2014)
+  * Performance evaluation, constraint programming
+  * Prolog, SICStus Prolog, clp(FD), NaturalDocs, LaTeX
+  * [Report](http://filipbartek.github.io/srp/report.pdf)
+
 * [NokiaWebGL](https://github.com/filipbartek/NokiaWebGL) (2014)
   * Extracts a 3D map of a large region from a Nokia service
   * Improvement of an existing tool with similar functionality - I made it produce a single 3D model for easier processing
@@ -50,11 +59,6 @@ some of my toy and homework projects.
   * SageMath, LaTeX, SageTeX
   * [Source](https://cloud.sagemath.com/projects/7a4027f1-a27a-40c2-bba4-92b7946e0537/files/)
 
-* [Stable roommates problem solver](https://github.com/filipbartek/srp) (2014)
-  * Performance evaluation, constraint programming
-  * Prolog, SICStus Prolog, clp(FD), NaturalDocs, LaTeX
-  * [Report](http://filipbartek.github.io/srp/report.pdf)
-
 * [The Best Amendment Computer Game Analysis](http://pragueinvaders.blogspot.cz/2013/11/the-best-amendment-computer-game.html) (2013)
   * Game studies, computer game analysis
 
@@ -64,10 +68,6 @@ some of my toy and homework projects.
   * Summer Student Programme (internship / summer school) in CERN
   * C++, Clang Static Analyzer, Linux
   * [Work Project Report](https://cds.cern.ch/record/1597539)
-
-* [path_finding](https://cloud.sagemath.com/projects/f18cd484-a3f3-4c7d-a485-4c8f09c8b652/files/path_finding/) (2015)
-  * Visualization of A* search
-  * SageMath, Python
 
 * [Rabin game solver](https://github.com/filipbartek/rabin) (2012)
   * C++ implementation of two algorithms that find a winning strategy given an instance of a finite Rabin game (defined for example [here](http://www.cs.le.ac.uk/people/np183/publications/2006/PP06.html))
