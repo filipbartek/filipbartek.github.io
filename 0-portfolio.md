@@ -10,22 +10,24 @@ some of my toy and homework projects.
 # Notable projects
 
 ## [missls](https://github.com/filipbartek/missls) (2015)
-  * Tactical nuclear warfare party minigame
-  * Originally made solo in 48 hours for [Ludum Dare 32](http://ludumdare.com/compo/ludum-dare-32/)
-    * [Placed in top 8 % in category Mood](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=39872)
-  * Made using [GameMaker: Studio](http://www.yoyogames.com/studio)
+
+* Tactical nuclear warfare party minigame
+* Originally made solo in 48 hours for [Ludum Dare 32](http://ludumdare.com/compo/ludum-dare-32/)
+  * [Placed in top 8 % in category Mood](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=39872)
+* Made using [GameMaker: Studio](http://www.yoyogames.com/studio)
 
 ## [Magic Dance Dance Carpet](http://mddc.jirimaha.com/) (2013)
-  * Virtual magic carpet experience (prototype)
-  * Interesting features:
-    * Dance pad controls
-    * Concave world
-  * Collaboration of five students of various backgrounds
-  * My responsibilities:
-    * Software design
-    * Programming
-    * Game design
-  * Made using [Unreal Development Kit](https://www.unrealengine.com/previous-versions)
+
+* Virtual magic carpet experience (prototype)
+* Interesting features:
+  * Dance pad controls
+  * Concave world
+* Collaboration of five students of various backgrounds
+* My responsibilities:
+  * Software design
+  * Programming
+  * Game design
+* Made using [Unreal Development Kit](https://www.unrealengine.com/previous-versions)
 
 # Other projects
 
