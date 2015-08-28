@@ -14,6 +14,7 @@ Programming tasks that get me excited:
 {:.center}
 ![My photo](/assets/face.jpg)
 
+{:.center}
 If you need help with a project you think I might find interesting,
 please let me know.
 
