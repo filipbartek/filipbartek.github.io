@@ -15,5 +15,5 @@ Programming tasks that get me excited:
 ![My photo](/assets/face.jpg)
 
 If you need help with a project you think I might find interesting,
-do not hesitate to contact me!
+please let me know.
 
