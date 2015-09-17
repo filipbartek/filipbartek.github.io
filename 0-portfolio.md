@@ -14,9 +14,9 @@ some of my toy and homework projects.
 ## [missls](https://github.com/filipbartek/missls) (2015)
 
 * Tactical nuclear warfare party minigame
-* Originally made solo in 48 hours for [Ludum Dare 32](http://ludumdare.com/compo/ludum-dare-32/)
+* Originally created solo in 48 hours for [Ludum Dare 32](http://ludumdare.com/compo/ludum-dare-32/)
   * [Placed in top 8 % in category Mood](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=39872)
-* Made using [GameMaker: Studio](http://www.yoyogames.com/studio)
+* Created using [GameMaker: Studio](http://www.yoyogames.com/studio)
 
 [<img src="/assets/mddc_tn.png" style="float: right;">](/assets/mddc.jpg)
 
@@ -31,7 +31,7 @@ some of my toy and homework projects.
   * Software design
   * Programming
   * Game design
-* Made using [Unreal Development Kit](https://www.unrealengine.com/previous-versions)
+* Created using [Unreal Development Kit](https://www.unrealengine.com/previous-versions)
 
 # Other projects
 
