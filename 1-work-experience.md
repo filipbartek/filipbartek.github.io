@@ -4,6 +4,11 @@ title: Work experience
 permalink: /work-experience/
 ---
 
+# [Hobrasoft](http://www.hobrasoft.cz/) (October 2015 – Present)
+
+* Java programmer
+* Rožnov pod Radhoštěm, Czech Republic
+
 # [CERN](http://home.web.cern.ch/) (2013)
 
 * Summer Student Programme (summer school / internship)
