@@ -8,6 +8,16 @@ permalink: /work-experience/
 
 * Java programmer
 * Rožnov pod Radhoštěm, Czech Republic
+* Technologies:
+  * Java
+  * Netbeans
+  * Maven
+  * Qt
+  * C++
+  * Qt Creator
+  * Git
+  * Phabricator
+  * Windows
 
 # [CERN](http://home.web.cern.ch/) (2013)
 
