@@ -10,7 +10,7 @@ permalink: /work-experience/
 * Rožnov pod Radhoštěm, Czech Republic
 * Technologies:
   * Java
-  * Netbeans
+  * NetBeans
   * Maven
   * Qt
   * C++
