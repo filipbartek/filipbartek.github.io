@@ -6,6 +6,16 @@ permalink: /portfolio/
 
 # Notable projects
 
+## [PDF Manipulation Utility](http://hobrasoft-cz.github.io/PDFMU/) (2016)
+
+* Lets you inspect and manipulate the following features of PDF documents:
+  * PDF version
+  * Properties
+  * Attachments (only adding attachments is available)
+  * Digital signatures
+* Command line interface
+* Programmed in Java using [iText](http://itextpdf.com/)
+
 [<img src="/assets/missls_tn.png" style="float: right;">](/assets/missls.png)
 
 ## [missls](https://github.com/filipbartek/missls) (2015)
