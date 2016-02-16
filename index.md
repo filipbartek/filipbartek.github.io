@@ -4,7 +4,7 @@ layout: default
 
 I am an aspiring game developer and amateur philosopher.
 
-Programming tasks that get me excited:
+Kinds of tasks that get me excited:
 
 * computationally difficult problems
 * optimization
