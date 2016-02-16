@@ -24,7 +24,8 @@ permalink: /work-experience/
 * Summer Student Programme (summer school / internship)
 * Location: Geneva, Switzerland
 * Duration: 10 weeks
-* Responsibilities: Extension of [Clang Static Analyzer](http://clang-analyzer.llvm.org/), a static program analysis tool written in and targeted at C++
+* Responsibilities:
+  * Extension of [Clang Static Analyzer](http://clang-analyzer.llvm.org/), a static program analysis tool written in and targeted at C++
 * Technologies:
   * C++
   * Clang Static Analyzer
@@ -38,7 +39,12 @@ permalink: /work-experience/
 * Role: Software Design Engineer
 * Location: Brno, Czech Republic
 * Duration: 6 months
-* Responsibilities: Software development, code analysis, system verification planning, documentation, cooperation with a team based in the United States
+* Responsibilities:
+  * software development
+  * code analysis
+  * system verification planning
+  * documentation
+  * cooperation with a team based in the United States
 * Technologies:
   * C++
   * Visual Studio 6
