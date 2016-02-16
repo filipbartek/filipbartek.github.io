@@ -56,4 +56,3 @@ permalink: /work-experience/
   * <abbr title="Subversion">SVN</abbr>
   * Serena Dimensions
   * Windows
-
