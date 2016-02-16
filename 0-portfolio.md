@@ -4,9 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-On this page you can see
-some of my toy and homework projects.
-
 # Notable projects
 
 [<img src="/assets/missls_tn.png" style="float: right;">](/assets/missls.png)
