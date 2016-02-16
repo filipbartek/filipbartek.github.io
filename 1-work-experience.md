@@ -6,8 +6,8 @@ permalink: /work-experience/
 
 # [Hobrasoft](http://www.hobrasoft.cz/) (October 2015 – Present)
 
-* Java programmer
-* Rožnov pod Radhoštěm, Czech Republic
+* Role: Software developer
+* Location: Rožnov pod Radhoštěm, Czech Republic
 * Technologies:
   * Java
   * NetBeans
@@ -22,7 +22,7 @@ permalink: /work-experience/
 # [CERN](http://home.web.cern.ch/) (2013)
 
 * Summer Student Programme (summer school / internship)
-* Geneva, Switzerland
+* Location: Geneva, Switzerland
 * Duration: 10 weeks
 * Responsibilities: Extension of [Clang Static Analyzer](http://clang-analyzer.llvm.org/), a static program analysis tool written in and targeted at C++
 * Technologies:
@@ -35,8 +35,8 @@ permalink: /work-experience/
 
 # [Honeywell](http://honeywell.com/) (2012)
 
-* Software Design Engineer
-* Brno, Czech Republic
+* Role: Software Design Engineer
+* Location: Brno, Czech Republic
 * Duration: 6 months
 * Responsibilities: Software development, code analysis, system verification planning, documentation, cooperation with a team based in the United States
 * Technologies:
