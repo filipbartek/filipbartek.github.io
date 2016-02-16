@@ -8,6 +8,8 @@ permalink: /work-experience/
 
 * Role: Software developer
 * Location: Rožnov pod Radhoštěm, Czech Republic
+* Responsibilities:
+  * Software design and development in Java and Qt
 * Technologies:
   * Java
   * NetBeans
@@ -18,6 +20,9 @@ permalink: /work-experience/
   * Git
   * Phabricator
   * Windows
+* Projects:
+  * [PDF Manipulation Utility](http://hobrasoft-cz.github.io/PDFMU/)
+  * [GeoSign](http://geosign.hobrasoft.cz/)
 
 # [CERN](http://home.web.cern.ch/) (2013)
 
