@@ -6,6 +6,13 @@ permalink: /portfolio/
 
 # Notable projects
 
+## [nbspacer](https://github.com/filipbartek/nbspacer) (2016)
+
+* Replaces spaces with `&nbsp;` sequences in HTML files where appropriate
+* Customizable
+* Command line interface
+* Programmed in Python
+
 ## [PDF Manipulation Utility](http://hobrasoft-cz.github.io/PDFMU/) (2016)
 
 * Lets you inspect and manipulate the following features of PDF documents:
