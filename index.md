@@ -2,8 +2,6 @@
 layout: default
 ---
 
-I am an aspiring game developer and amateur philosopher.
-
 Kinds of tasks that get me excited:
 
 * computationally difficult problems
