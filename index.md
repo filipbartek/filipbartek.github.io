@@ -10,6 +10,7 @@ Kinds of tasks that get me excited:
 * optimization
 * artificial intelligence
 * computer games
+* benefit mankind
 
 {:.center}
 ![My photo](/assets/face.jpg)
