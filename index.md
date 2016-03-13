@@ -11,6 +11,7 @@ Kinds of tasks that get me excited:
 * artificial intelligence
 * computer games
 * benefit mankind
+* philosophical dialogue
 
 {:.center}
 ![My photo](/assets/face.jpg)
