@@ -15,9 +15,6 @@ Kinds of tasks that get me excited:
 ![My photo](/assets/face.jpg)
 
 {:.center}
-My face looks like this.
-
-{:.center}
 If you need help with a project you think I might find interesting,
 please let me know.
 
