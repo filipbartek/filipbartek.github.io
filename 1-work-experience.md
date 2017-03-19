@@ -4,10 +4,11 @@ title: Work experience
 permalink: /work-experience/
 ---
 
-# [Hobrasoft](http://www.hobrasoft.cz/) (October 2015 – Present)
+# [Hobrasoft](http://www.hobrasoft.cz/) (October 2015 – September 2016)
 
 * Role: Software developer
 * Location: Rožnov pod Radhoštěm, Czech Republic
+* Duration: 1 year
 * Responsibilities:
   * Software design and development in Java and Qt
 * Technologies:
