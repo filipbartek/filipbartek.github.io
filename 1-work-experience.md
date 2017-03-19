@@ -4,6 +4,20 @@ title: Work experience
 permalink: /work-experience/
 ---
 
+# [BTL](http://www.btlnet.co.in/) (September 2016 – Present)
+
+* Role: R&D Software Engineer
+* Location: Bangalore, India
+* Technologies:
+  * C++
+  * Qt
+  * QML
+  * Qt Creator
+  * Git
+  * Ubuntu
+  * TeamCity
+  * JIRA
+
 # [Hobrasoft](http://www.hobrasoft.cz/) (October 2015 – September 2016)
 
 * Role: Software developer
