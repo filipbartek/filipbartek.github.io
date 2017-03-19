@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Kinds of tasks that get me excited:
+Tasks that excite me:
 
 * computationally difficult problems
 * optimization
