@@ -16,4 +16,3 @@ Tasks that excite me:
 
 {:.center}
 My CV is available here: [bartekfilip-resume-en.pdf](http://filipbartek.github.io/resume/bartekfilip-resume-en.pdf)
-
