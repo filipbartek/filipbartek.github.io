@@ -11,12 +11,17 @@ permalink: /work-experience/
 * Technologies:
   * C++
   * Qt
+  * qmake
   * QML
   * Qt Creator
   * Git
   * Ubuntu
   * TeamCity
   * JIRA
+  * gcov, lcov
+  * cppcheck
+  * Valgrind
+  * SonarQube
 
 # [Hobrasoft](http://www.hobrasoft.cz/) (October 2015 – September 2016)
 
