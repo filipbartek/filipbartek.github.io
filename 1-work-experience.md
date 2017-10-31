@@ -4,7 +4,7 @@ title: Work experience
 permalink: /work-experience/
 ---
 
-# [BTL](http://www.btlnet.co.in/) (September 2016 – Present)
+# [BTL India](http://www.btlnet.co.in/) (September 2016 – Present)
 
 * Role: R&D Software Engineer
 * Location: Bangalore, India
