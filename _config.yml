@@ -8,5 +8,7 @@ repository: filipbartek/filipbartek.github.io
 linkedin_username: filipbartek
 soundcloud_permalink: filip-bartek
 
+exclude: [README.md]
+
 plugins:
   - jekyll-sitemap
