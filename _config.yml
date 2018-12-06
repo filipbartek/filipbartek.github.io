@@ -7,8 +7,3 @@ repository: filipbartek/filipbartek.github.io
 
 linkedin_username: filipbartek
 soundcloud_permalink: filip-bartek
-
-# Build settings
-markdown: kramdown
-
-exclude: [Gemfile]
