@@ -4,6 +4,12 @@ title: Work experience
 permalink: /work-experience/
 ---
 
+# [BTL Medical Technologies CZ](https://www.medictech.com/) (November 2017 – November 2018)
+
+* Role: R&D Software Engineer
+* Location: Prague, Czech Republic
+* Technolgies: C++, Visual Studio, embedded Linux, CMake, Git, TeamCity, JIRA
+
 # [BTL India](http://www.btlnet.co.in/) (September 2016 – October 2017)
 
 * Role: R&D Software Engineer
