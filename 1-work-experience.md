@@ -10,6 +10,7 @@ permalink: /work-experience/
 * Location: Prague, Czech Republic
 * Duration: 1 year
 * Technolgies: C++, Visual Studio, embedded Linux, CMake, Git, TeamCity, JIRA
+* Domains: medical software engineering, multi-platform development
 
 # [BTL India](http://www.btlnet.co.in/) (2016 – 2017)
 
@@ -17,6 +18,7 @@ permalink: /work-experience/
 * Location: Bangalore, India
 * Duration: 1 year
 * Technologies: C++, Qt, qmake, QML, Qt Creator, Git, Ubuntu, TeamCity, JIRA, gcov, lcov, cppcheck, Valgrind, SonarQube
+* Domains: medical device engineering, software engineering, software architecture, code quality, hiring (technical job interviews)
 
 # [Hobrasoft](http://www.hobrasoft.cz/) (2015 – 2016)
 
