@@ -8,7 +8,7 @@ permalink: /work-experience/
 
 * Role: R&D Software Engineer
 * Location: Prague, Czech Republic
-* Duration: 1 year
+* Duration: 12 months
 * Technolgies: C++, Visual Studio, embedded Linux, CMake, Git, TeamCity, JIRA
 * Domains: medical software engineering, multi-platform development
 
@@ -16,7 +16,7 @@ permalink: /work-experience/
 
 * Role: R&D Software Engineer
 * Location: Bangalore, India
-* Duration: 1 year
+* Duration: 12 months
 * Technologies: C++, Qt, qmake, QML, Qt Creator, Git, Ubuntu, TeamCity, JIRA, gcov, lcov, cppcheck, Valgrind, SonarQube
 * Domains: medical device engineering, software engineering, software architecture, code quality, hiring (technical job interviews)
 
@@ -24,7 +24,7 @@ permalink: /work-experience/
 
 * Role: Software developer
 * Location: Rožnov pod Radhoštěm, Czech Republic
-* Duration: 1 year
+* Duration: 11 months
 * Responsibilities: Software design and development in Java and Qt
 * Technologies: Java, NetBeans, Maven, Qt, C++, Qt Creator, Git, Phabricator, Windows
 * Projects:
