@@ -52,6 +52,14 @@ LinkedIn
 </li>
 {% endif %}
 
+{% if site.topcoder_username %}
+<li>
+<a href="https://www.topcoder.com/members/{{ site.topcoder_username }}">
+Topcoder
+</a>
+</li>
+{% endif %}
+
 {% if site.soundcloud_permalink %}
 <li>
 <a href="https://soundcloud.com/{{ site.soundcloud_permalink }}">
