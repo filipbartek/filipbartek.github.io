@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Tasks that excite me:
+Areas of interest:
 
 * computationally difficult problems
 * optimization
