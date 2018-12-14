@@ -4,19 +4,19 @@ title: Work experience
 permalink: /work-experience/
 ---
 
-# [BTL Medical Technologies CZ](https://www.medictech.com/) (November 2017 – November 2018)
+# [BTL Medical Technologies CZ](https://www.medictech.com/) (2017 – 2018)
 
 * Role: R&D Software Engineer
 * Location: Prague, Czech Republic
 * Technolgies: C++, Visual Studio, embedded Linux, CMake, Git, TeamCity, JIRA
 
-# [BTL India](http://www.btlnet.co.in/) (September 2016 – October 2017)
+# [BTL India](http://www.btlnet.co.in/) (2016 – 2017)
 
 * Role: R&D Software Engineer
 * Location: Bangalore, India
 * Technologies: C++, Qt, qmake, QML, Qt Creator, Git, Ubuntu, TeamCity, JIRA, gcov, lcov, cppcheck, Valgrind, SonarQube
 
-# [Hobrasoft](http://www.hobrasoft.cz/) (October 2015 – September 2016)
+# [Hobrasoft](http://www.hobrasoft.cz/) (2015 – 2016)
 
 * Role: Software developer
 * Location: Rožnov pod Radhoštěm, Czech Republic
