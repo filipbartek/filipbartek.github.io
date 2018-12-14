@@ -21,8 +21,7 @@ permalink: /work-experience/
 * Role: Software developer
 * Location: Rožnov pod Radhoštěm, Czech Republic
 * Duration: 1 year
-* Responsibilities:
-  * Software design and development in Java and Qt
+* Responsibilities: Software design and development in Java and Qt
 * Technologies: Java, NetBeans, Maven, Qt, C++, Qt Creator, Git, Phabricator, Windows
 * Projects:
   * [PDF Manipulation Utility](http://hobrasoft-cz.github.io/PDFMU/)
@@ -33,8 +32,7 @@ permalink: /work-experience/
 * Summer Student Programme (summer school / internship)
 * Location: Geneva, Switzerland
 * Duration: 10 weeks
-* Responsibilities:
-  * Extension of [Clang Static Analyzer](http://clang-analyzer.llvm.org/), a static program analysis tool written in and targeted at C++
+* Responsibilities: Extension of [Clang Static Analyzer](http://clang-analyzer.llvm.org/), a static program analysis tool for C++
 * Technologies: C++, Clang Static Analyzer, Git, JIRA, Linux
 * [Work Project Report](http://cds.cern.ch/record/1597539)
 
