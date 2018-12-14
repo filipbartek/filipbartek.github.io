@@ -8,12 +8,14 @@ permalink: /work-experience/
 
 * Role: R&D Software Engineer
 * Location: Prague, Czech Republic
+* Duration: 1 year
 * Technolgies: C++, Visual Studio, embedded Linux, CMake, Git, TeamCity, JIRA
 
 # [BTL India](http://www.btlnet.co.in/) (2016 – 2017)
 
 * Role: R&D Software Engineer
 * Location: Bangalore, India
+* Duration: 1 year
 * Technologies: C++, Qt, qmake, QML, Qt Creator, Git, Ubuntu, TeamCity, JIRA, gcov, lcov, cppcheck, Valgrind, SonarQube
 
 # [Hobrasoft](http://www.hobrasoft.cz/) (2015 – 2016)
