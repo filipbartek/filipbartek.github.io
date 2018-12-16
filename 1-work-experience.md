@@ -20,6 +20,14 @@ permalink: /work-experience/
 * Technologies: C++, Qt, qmake, QML, Qt Creator, Git, Ubuntu, TeamCity, JIRA, gcov, lcov, cppcheck, Valgrind, SonarQube
 * Domains: medical device engineering, software engineering, software architecture, code quality, hiring (technical job interviews)
 
+## References
+
+[Nikhil Augustine](https://www.linkedin.com/in/nikhilaugustine/) (co-worker):
+
+> I just wanted to say a big Thank you at this moment, You nay not have an idea of the amount you have influenced in my career. The working experience with you have made a big impact in the way how I approach the problems in our area of work.
+>
+> I wish you all the best, Keep up the enthusiasm and dedication and keep inspiring others.
+
 # [Hobrasoft](http://www.hobrasoft.cz/) (2015 – 2016)
 
 * Role: Software developer
