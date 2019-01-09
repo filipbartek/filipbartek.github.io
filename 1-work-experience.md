@@ -22,6 +22,12 @@ permalink: /work-experience/
 
 ## References
 
+[Karthick N G](https://www.linkedin.com/in/karthickng) (manager):
+
+> It was wonderful working together with you when I was at BTL. I remember our elaborate discussions and your piercing technical questions!
+>
+> Your analytical approach and dedication to work make you a great asset for any software team.
+
 [Nikhil Augustine](https://www.linkedin.com/in/nikhilaugustine/) (co-worker):
 
 > I just wanted to say a big Thank you at this moment, You nay not have an idea of the amount you have influenced in my career. The working experience with you have made a big impact in the way how I approach the problems in our area of work.
