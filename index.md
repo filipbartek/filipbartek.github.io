@@ -12,7 +12,7 @@ Areas of interest:
 * philosophical dialogue
 
 {:.center}
-![My photo](/assets/face.jpg)
+![My photo](/assets/20171001173719_IMG_0383_740.JPG)
 
 {:.center}
 My CV is available here: [bartekfilip-resume-en.pdf](http://filipbartek.github.io/resume/bartekfilip-resume-en.pdf)
