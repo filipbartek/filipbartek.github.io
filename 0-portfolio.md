@@ -22,6 +22,7 @@ permalink: /portfolio/
   * Digital signatures
 * Command line interface
 * Programmed in Java using [iText](http://itextpdf.com/)
+* See also [introductory article](https://www.hobrasoft.cz/en/blog/bartek/pdfmu)
 
 [<img src="/assets/missls_tn.png" style="float: right;">](/assets/missls.png)
 
