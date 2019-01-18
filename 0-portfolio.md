@@ -87,6 +87,7 @@ permalink: /portfolio/
   * Summer Student Programme (internship / summer school) in CERN
   * C++, Clang Static Analyzer, Linux
   * [Work Project Report](https://cds.cern.ch/record/1597539)
+  * [Interview](https://ep-news.web.cern.ch/FilipB%C3%A1rtek)
 
 * [Rabin game solver](https://github.com/filipbartek/rabin) (2012)
   * C++ implementation of two algorithms that find a winning strategy given an instance of a finite Rabin game (defined for example [here](http://www.cs.le.ac.uk/people/np183/publications/2006/PP06.html))
