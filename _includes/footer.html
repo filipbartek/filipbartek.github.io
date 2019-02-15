@@ -44,13 +44,17 @@
           </li>
           {% endif %}
 
-{% if site.linkedin_username %}
-<li>
-<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-LinkedIn
-</a>
-</li>
-{% endif %}
+          {% if site.linkedin_username %}
+          <li>
+            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+              <span class="icon  icon--linkedin">
+                <!-- https://iconmonstr.com/linkedin-3-svg/ -->
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+              </span>
+              <span class="username">{{ site.linkedin_username }}</span>
+            </a>
+          </li>
+          {% endif %}
 
 {% if site.topcoder_username %}
 <li>
@@ -60,13 +64,17 @@ Topcoder
 </li>
 {% endif %}
 
-{% if site.soundcloud_permalink %}
-<li>
-<a href="https://soundcloud.com/{{ site.soundcloud_permalink }}">
-SoundCloud
-</a>
-</li>
-{% endif %}
+          {% if site.soundcloud_permalink %}
+          <li>
+            <a href="https://soundcloud.com/{{ site.soundcloud_permalink }}">
+              <span class="icon  icon--soundcloud">
+                <!-- https://iconmonstr.com/soundcloud-1-svg/ -->
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7 17.939h-1v-8.068c.308-.231.639-.429 1-.566v8.634zm3 0h1v-9.224c-.229.265-.443.548-.621.857l-.379-.184v8.551zm-2 0h1v-8.848c-.508-.079-.623-.05-1-.01v8.858zm-4 0h1v-7.02c-.312.458-.555.971-.692 1.535l-.308-.182v5.667zm-3-5.25c-.606.547-1 1.354-1 2.268 0 .914.394 1.721 1 2.268v-4.536zm18.879-.671c-.204-2.837-2.404-5.079-5.117-5.079-1.022 0-1.964.328-2.762.877v10.123h9.089c1.607 0 2.911-1.393 2.911-3.106 0-2.233-2.168-3.772-4.121-2.815zm-16.879-.027c-.302-.024-.526-.03-1 .122v5.689c.446.143.636.138 1 .138v-5.949z"/></svg>
+              </span>
+              <span class="username">{{ site.soundcloud_permalink }}</span>
+            </a>
+          </li>
+          {% endif %}
 
         </ul>
       </div>
