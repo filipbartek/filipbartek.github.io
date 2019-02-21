@@ -4,12 +4,15 @@ layout: default
 
 Areas of interest:
 
-* computationally difficult problems
-* optimization
-* artificial intelligence
+* computer science
+    * computationally hard problems
+    * algorithmization
+    * optimization
+    * artificial intelligence
 * computer games
-* benefit mankind
-* philosophical dialogue
+* improving quality of life
+    * effective altruism
+    * philosophical dialogue
 
 Resume: [bartekfilip-resume-en.pdf](http://filipbartek.github.io/resume/bartekfilip-resume-en.pdf)
 
