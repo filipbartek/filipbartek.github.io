@@ -16,21 +16,35 @@ Resume: [bartekfilip-resume-en.pdf](http://filipbartek.github.io/resume/bartekfi
 {:.center}
 ![My photo](/assets/20171001173719_IMG_0383_740.JPG)
 
-# Notable projects
+<hr/>
+
+# Portfolio
+
+## [Ratata](https://github.com/ggj19-ratata/ratata) (2019)
+
+<div class="videoWrapper videoWrapper-16-9">
+<iframe src="https://www.youtube-nocookie.com/embed/YM_TlJy8N4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+* A rhythm game for Windows
+* Created in 48 hours for [Global Game Jam](https://globalgamejam.org/) 2019
+* My responsibility: programming
+* Created using Unity
 
 ## [nbspacer](https://github.com/filipbartek/nbspacer) (2016)
 
-* Replaces spaces with `&nbsp;` sequences in HTML files where appropriate
-* Customizable
+* Replaces regular spaces in HTML documents with non-breaking spaces (`&nbsp;`) where appropriate
+* Conservative (<abbr title="Version control system">VCS</abbr>-friendly) - leaves the rest of the document intact
+* Supports two languages: Czech and English
 * Command line interface
 * Programmed in Python
 
 ## [PDF Manipulation Utility](http://hobrasoft-cz.github.io/PDFMU/) (2016)
 
-* Lets you inspect and manipulate the following features of PDF documents:
+* Lets you inspect and manipulate the following content of PDF documents:
   * PDF version
   * Properties
-  * Attachments (only adding attachments is available)
+  * Attachments (only adding attachments is supported)
   * Digital signatures
 * Command line interface
 * Programmed in Java using [iText](http://itextpdf.com/)
@@ -45,22 +59,20 @@ Resume: [bartekfilip-resume-en.pdf](http://filipbartek.github.io/resume/bartekfi
   * [Placed in top 8 % in category Mood](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=39872)
 * Created using [GameMaker: Studio](http://www.yoyogames.com/studio)
 
-[<img src="/assets/mddc_tn.png" style="float: right;">](/assets/mddc.jpg)
+## [Magic Dance Dance Carpet](http://mddcarpet.github.io/mddc/) (2013)
 
-## [Magic Dance Dance Carpet](http://mddc.jirimaha.com/) (2013)
+<div class="videoWrapper videoWrapper-4-3">
+<iframe src="https://www.youtube-nocookie.com/embed/5cXR576lDHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-* Virtual magic carpet experience (prototype)
+* A magic carpet flight simulator (prototype)
 * Interesting features:
   * Dance pad controls
   * Concave world
-* Collaboration of five students of various backgrounds
-* My responsibilities:
-  * Software design
-  * Programming
-  * Game design
+* My responsibility: programming
 * Created using [Unreal Development Kit](https://www.unrealengine.com/previous-versions)
 
-# Other projects
+## Other projects
 
 * [GeoSign](https://geosign.hobrasoft.cz/) (2016)
   * Assists Czech land surveyors in digitally signing documents and sending them to cadastre offices
