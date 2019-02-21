@@ -12,8 +12,7 @@ Areas of interest:
 * benefit mankind
 * philosophical dialogue
 
-{:.center}
-![My photo](/assets/20171001173719_IMG_0383_740.JPG)
+Resume: [bartekfilip-resume-en.pdf](http://filipbartek.github.io/resume/bartekfilip-resume-en.pdf)
 
 {:.center}
-My CV is available here: [bartekfilip-resume-en.pdf](http://filipbartek.github.io/resume/bartekfilip-resume-en.pdf)
+![My photo](/assets/20171001173719_IMG_0383_740.JPG)
