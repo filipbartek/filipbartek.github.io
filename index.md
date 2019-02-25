@@ -62,7 +62,7 @@ Resume: [bartekfilip-resume-en.pdf](http://filipbartek.github.io/resume/bartekfi
   * [Placed in top 8 % in category Mood](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=39872)
 * Created using [GameMaker: Studio](http://www.yoyogames.com/studio)
 
-## [Magic Dance Dance Carpet](http://mddcarpet.github.io/mddc/) (2013)
+## [Magic Dance Dance Carpet](https://mddcarpet.github.io/) (2013)
 
 <div class="videoWrapper videoWrapper-4-3">
 <iframe src="https://www.youtube-nocookie.com/embed/5cXR576lDHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
